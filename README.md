@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard built to analyze e-commerce sales performance — tracking revenue, profit, and customer behavior across states, categories, and payment modes.
 
-![Dashboard Preview](Screenshots/dashboard-overview.png)
+![Dashboard Preview](Screenshots/Deshboard_overview-2)
 
 ---
 
