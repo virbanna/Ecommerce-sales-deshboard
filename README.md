@@ -50,9 +50,11 @@ E-commerce businesses generate large volumes of transactional data daily. This d
 ├── README.md
 ├── screenshots/
 │   └── dashboard-overview.png
+    └── Dashboard-overview-2.png
 ├── data/
-│   └── sample_sales_data.csv
-└── Madhav_Ecommerce_Sales.pbix
+│   └── Details.csv
+    └── Orders.csv
+└── shop sales.pbix
 ```
 
 ---
@@ -60,7 +62,7 @@ E-commerce businesses generate large volumes of transactional data daily. This d
 ## 🚀 How to Use
 
 1. Clone or download this repository
-2. Open `Madhav_Ecommerce_Sales.pbix` in **Power BI Desktop**
+2. Open `shop sales.pbix` in **Power BI Desktop**
 3. Use the Quarter and Category slicers to explore the data interactively
 
 ---
@@ -75,4 +77,4 @@ The dataset used in this project is for **learning and demonstration purposes**.
 
 **Vikas Singh Rathore**
 📧 vikassrathore123@gmail.com
-🔗 [LinkedIn](#) | [GitHub](#)
+🔗 [https://www.linkedin.com/in/vikassrathore/](#)
